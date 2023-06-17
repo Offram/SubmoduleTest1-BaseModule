@@ -4,11 +4,17 @@ https://www.vogella.com/tutorials/GitSubmodules/article.html#:~:text=Use%20the%2
 # Basic Commands
 
 ## Initiate
-git submodule add -b main https://github.com/Offram/SubmoduleTest1-SubModule.git 
+```
+git submodule add -b main https://github.com/Offram/SubmoduleTest1-SubModule.git
 git submodule init
+```
 
 ## Clone
+```
 git clone --recursive [URL to Git repo]
+```
 
 ## Update
+```
 git submodule update --remote
+```
