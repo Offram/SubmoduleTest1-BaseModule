@@ -1,0 +1,4 @@
+[submodule "SubmoduleTest1-SubModule"]
+	path = SubmoduleTest1-SubModule
+	url = https://github.com/Offram/SubmoduleTest1-SubModule.git
+	branch = main
